@@ -42,7 +42,7 @@
 
 
 
-7. Convolutional Neural Network 이란 무엇인지 인터넷에서 찾아보고, 자유롭게 작성해보세요!
+8. Convolutional Neural Network 이란 무엇인지 인터넷에서 찾아보고, 자유롭게 작성해보세요!
 
 
 
